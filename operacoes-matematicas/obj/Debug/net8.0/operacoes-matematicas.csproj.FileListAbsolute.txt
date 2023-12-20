@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.exe
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.deps.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\bin\Debug\net8.0\operacoes-matematicas.pdb
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.sourcelink.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\refint\operacoes-matematicas.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.pdb
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\operacoes-matematicas.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\operacoes-matematicas\obj\Debug\net8.0\ref\operacoes-matematicas.dll

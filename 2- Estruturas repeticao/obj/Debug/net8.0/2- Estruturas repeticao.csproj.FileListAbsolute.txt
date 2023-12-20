@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\bin\Debug\net8.0\2- Estruturas repeticao.exe
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\bin\Debug\net8.0\2- Estruturas repeticao.deps.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\bin\Debug\net8.0\2- Estruturas repeticao.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\bin\Debug\net8.0\2- Estruturas repeticao.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\bin\Debug\net8.0\2- Estruturas repeticao.pdb
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.sourcelink.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\refint\2- Estruturas repeticao.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.pdb
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\2- Estruturas repeticao.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\2- Estruturas repeticao\obj\Debug\net8.0\ref\2- Estruturas repeticao.dll
