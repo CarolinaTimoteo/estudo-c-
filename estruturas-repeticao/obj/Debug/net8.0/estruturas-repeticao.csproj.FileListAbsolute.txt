@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.sourcelink.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\bin\Debug\net8.0\estruturas-repeticao.exe
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\bin\Debug\net8.0\estruturas-repeticao.deps.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\bin\Debug\net8.0\estruturas-repeticao.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\bin\Debug\net8.0\estruturas-repeticao.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\bin\Debug\net8.0\estruturas-repeticao.pdb
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\refint\estruturas-repeticao.dll
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.pdb
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\estruturas-repeticao.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\Projetos_code\repositories\logica-de-programacao\estruturas-repeticao\obj\Debug\net8.0\ref\estruturas-repeticao.dll
